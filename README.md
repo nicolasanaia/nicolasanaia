@@ -1,7 +1,7 @@
 <h1 align="center">This is me: Nicolas Anaia</h1>
 <img align="left" src="https://media3.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif?cid=790b7611facf4593a900fadacca858911c30efce97ce1105&rid=giphy.gif&ct=s" alt="alt text" height="80" /><img align="right" src="https://4.bp.blogspot.com/-A5XgBuqlMdQ/WHKQrHmCtUI/AAAAAAAAAP8/3oNhs05gKdsXM_6duLeliRkBnDrwpK0-QCLcB/s1600/nrt.gif" alt="alt text" width="143" /><pre><h3 align="center" > A passionate software developer from Brazil <img align="center" src="https://cdn-icons-png.flaticon.com/512/197/197386.png" alt="alt text" width="20" /></h3></pre>
 <br />
-<p align="center"><img src="https://4.bp.blogspot.com/-A5XgBuqlMdQ/WHKQrHmCtUI/AAAAAAAAAP8/3oNhs05gKdsXM_6duLeliRkBnDrwpK0-QCLcB/s1600/nrt.gif" alt="alt text" width="400" /></p>
+![Snake animation](https://github.com/nicolasanaia/nicolasanaia/blob/output/github-contribution-grid-snake.svg)
 <br />
 
 <h3 align="center">Languages and Tools:</h3>
