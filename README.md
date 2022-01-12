@@ -1,7 +1,6 @@
 <h1 align="center">This is me: Nicolas Anaia</h1>
-<h3 align="left">A passionate frontend developer from Brazil</h3>
-<img align="left" src="![image](https://user-images.githubusercontent.com/61800984/149067364-f2eefea3-e055-4d75-9223-8e8781a02e8c.png)" height="40" width="40"/>
-<img align="center" alt="Coding" width="400" src="img align="right" alt="Coding" width="400" src="https://c.tenor.com/ln2Gov-o7VQAAAAC/naruto-yes.gif" />
+<img align="right" alt="Coding" target="_blank" width="400" src="img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<h3 align="center">A passionate frontend developer from Brazil</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolasanaia&show_icons=true&theme=tokyonight&title_color=dedede&text_color=dedede&hide_border=true&locale=en&layout=compact" alt="nicolasanaia" /></p>   
 <h3 align="center">Languages and Tools:</h3>
